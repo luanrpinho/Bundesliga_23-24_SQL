@@ -13,7 +13,7 @@
 ## Etapas do projeto:
 - **Web Scraping:** foi feito a coleta por web scraping na linguagem R no Google Colab, para reunir os dados necessários para o projeto.
 - **Limpeza dos dados:** todos os dados extraídos passaram por um processo de limpeza e preparação para garantir sua qualidade.
-- **Análise:** toda a análise foi feita usando SQL.
+- **Análise:** toda a análise foi feita usando SQL. [Clique aqui](https://github.com/luanrpinho/Bundesliga_23-24_SQL/blob/main/analise.md)
 <br/>
 
 ## Conjunto dos dados:
@@ -23,7 +23,7 @@
 ## Ferramentas utilizadas:
 - **Linguagem R (Google Colab):** utilizei a linguagem R no ambiente do Google Colab para realizar web scraping no site que fornece informações sobre a Bundesliga.
 - **Microsoft Excel:** fiz o uso do Excel para realizar algumas limpezas nos dados e correções nos dados.
-- **SQL Server:**
+- **SQL Server:** fiz algumas outras limpezas para poder usar o SQL. Também fiz a todas as consultas.
 <br/>
 
 ## Requisitos:
